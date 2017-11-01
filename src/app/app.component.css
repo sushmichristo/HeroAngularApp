@@ -13,8 +13,8 @@ h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .selected {
-      background-color: #CFD8DC !important;
-      color: white;
+      background-color: #DCCFD1 !important;
+      color: blue;
     }
     .heroes {
       margin: 0 0 2em 0;
